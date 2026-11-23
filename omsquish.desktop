@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=OmSquish
+GenericName=Image Compressor
+Comment=Compress and optimize JPEG, PNG, and WebP images
+Exec=__HOME__/.local/bin/omsquish %U
+TryExec=__HOME__/.local/bin/omsquish
+Icon=omsquish
+Terminal=false
+StartupNotify=false
+StartupWMClass=omsquish
+Categories=Graphics;2DGraphics;RasterGraphics;Photography;Utility;
+Keywords=image;compress;compressor;optimize;squish;caesium;jpeg;png;webp;omsquish;
+MimeType=image/png;image/jpeg;image/webp;
